@@ -26,12 +26,28 @@
 <img src="res/Snap3.png" width="400"/>
 
 ## Steps Taken In This Project
-- Data Collection
-- EDA & Visualization
-- Model selection & building it.
-- Evaluation of the models.
-- Saving the models.
-- Development of REST API.
+1. Overall:
+  - Data Collection
+  - EDA & Visualization
+  - Model selection & building it.
+  - Evaluation of the models.
+  - Saving the models.
+  - Development of REST API.
+
+2. Pipeline for covid19 sentiment analysis:
+  - Get the text
+  - Clean the text
+  - Vectorize the text using TFIDF
+  - Load the model and predict
+  - Decode the prediction in a non-numerical form
+
+3. Pipeline for toxic comment classification:
+  - Get the text
+  - Clean the text
+  - Convert the text to sequence
+  - Pad the sequence
+  - Load the model and predict (the model uses word2vec representation of sequences)
+  - Decode the prediction in a non-numerical form
 
 ## Installation And Usage
 1. Installation
