@@ -41,7 +41,8 @@
 > **Note:** *If any dependency is missing or an error shows up, install it using ````pip install moduleName````*.
 
 2. Usage
-   - Open your project folder and go to the terminal and activate your virtual environment. Then type ````uvicorn src.app:app --reload```` and there it'll give you the
+   1. Open your project folder and go to the terminal and activate your virtual environment. Then type ````uvicorn src.app:app --reload```` and there it'll give you the
    localhost address. Open the link and then use any of below endpoints for predictions.
-   - '/covid/yourText' -> this is for sentiment analysis of covid19 tweets.
-   - '/toxiccomment/yourText' -> this is for predicting multiple labels of toxicity in a tweet or text.
+    - '/covid/yourText' -> this is for sentiment analysis of covid19 tweets.
+    - '/toxiccomment/yourText' -> this is for predicting multiple labels of toxicity in a tweet or text.
+   2. To open jupyter notebooks, type ````jupyter notebook```` in the terminal.
