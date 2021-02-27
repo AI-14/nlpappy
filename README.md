@@ -21,44 +21,47 @@
 ## Screenshots Of The API
 <details>
    <summary>Click to expand!</summary>
-   <img src="res/Snap1.png" width="400"/>    
+  
+<img src="res/Snap1.png" width="400"/>
+  
+<img src="res/Snap2.png" width="400"/>
 
-   <img src="res/Snap2.png" width="400"/>
-
-   <img src="res/Snap3.png" width="400"/>
+<img src="res/Snap3.png" width="400"/>
 </details>
 
 
 ## Steps Taken In This Project
 <details>
    <summary>Click to expand!</summary>
-  1. Overall:
-    - Data Collection
-    - EDA & Visualization
-    - Model selection & building it.
-    - Evaluation of the models.
-    - Saving the models.
-    - Development of REST API.
+  
+**Overall**:
+  - Data Collection
+  - EDA & Visualization
+  - Model selection & building it.
+  - Evaluation of the models.
+  - Saving the models.
+  - Development of REST API.
 
-  2. Pipeline for covid19 sentiment analysis:
-    - Get the text
-    - Clean the text
-    - Vectorize the text using TFIDF
-    - Load the model and predict
-    - Decode the prediction in a non-numerical form
+**Pipeline for covid19 sentiment analysis**:
+  - Get the text
+  - Clean the text
+  - Vectorize the text using TFIDF
+  - Load the model and predict
+  - Decode the prediction in a non-numerical form
 
-  3. Pipeline for toxic comment classification:
-    - Get the text
-    - Clean the text
-    - Convert the text to sequence
-    - Pad the sequence
-    - Load the model and predict (the model uses word2vec representation of sequences)
-    - Decode the prediction in a non-numerical form
+**Pipeline for toxic comment classification**:
+  - Get the text
+  - Clean the text
+  - Convert the text to sequence
+  - Pad the sequence
+  - Load the model and predict (the model uses word2vec representation of sequences)
+  - Decode the prediction in a non-numerical form
 </details>
 
 ## Installation And Usage
 <details>
-   <summary>Click to expand!</summary>
+    <summary>Click to expand!</summary>
+  
   1. Installation
      - Download/clone this repository. Then open terminal (make sure you are in the project's directory).
      - Create a virtual environment using the command ````py -m venv yourVenvName```` and activate it using ````yourVenvName\Scripts\activate.bat````.
