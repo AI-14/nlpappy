@@ -21,12 +21,11 @@
 ## Screenshots Of The API
 <details>
    <summary>Click to expand!</summary>
+<img src="res/Snap1.png" width="600"/>       
   
-<img src="res/Snap1.png" width="400"/>
-  
-<img src="res/Snap2.png" width="400"/>
+<img src="res/Snap2.png" width="600"/>
 
-<img src="res/Snap3.png" width="400"/>
+<img src="res/Snap3.png" width="600"/>
 </details>
 
 
