@@ -1,6 +1,7 @@
 # NLPAppy
   ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
   ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-566be8?style=flat)
+  ![NLP](https://img.shields.io/badge/-NLP-f0886c?style=flat)
   ![Sklearn](https://img.shields.io/badge/-Sklearn-1fb30e?style=flat)
   ![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow)
   ![Keras](https://img.shields.io/badge/-Keras-gray?style=flat&logo=keras)
@@ -21,6 +22,8 @@
 ## Screenshots Of The API
 <details>
    <summary>Click to expand!</summary>
+   <br/>
+   
 <img src="res/Snap1.png" width="600"/>       
   
 <img src="res/Snap2.png" width="600"/>
@@ -32,7 +35,8 @@
 ## Steps Taken In This Project
 <details>
    <summary>Click to expand!</summary>
-  
+   <br/>
+   
 **Overall**:
   - Data Collection
   - EDA & Visualization
@@ -60,6 +64,7 @@
 ## Installation And Usage
 <details>
     <summary>Click to expand!</summary>
+    <br/>
   
   1. Installation
      - Download/clone this repository. Then open terminal (make sure you are in the project's directory).
