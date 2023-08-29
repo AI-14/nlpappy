@@ -57,4 +57,3 @@
 - `uvicorn src.app:app --reload` - launches a localhost site for fastapi
    - endpoint `/covid/yourText'` is for sentiment analysis of covid19 tweets
    - endpoint `/toxiccomment/yourText` is for predicting multiple labels of toxicity in a tweet or text
-- Open `.ipynb` file
